@@ -1,0 +1,9 @@
+{
+    "name": "Flutter Codespaces",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/flutter:1": {
+            "version": "stable"
+        }
+    }
+}
